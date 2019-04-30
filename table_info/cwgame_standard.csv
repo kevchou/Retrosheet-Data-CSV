@@ -1,0 +1,85 @@
+﻿Field number,Description,Header
+0,Game ID,GAME_ID
+1,Date,GAME_DT
+2,Game number,GAME_CT
+3,Day of week,GAME_DY
+4,Start time,START_GAME_TM
+5,DH used flag,DH_FL
+6,Day/night flag,DAYNIGHT_PARK_CD
+7,Visiting team,AWAY_TEAM_ID
+8,Home team,HOME_TEAM_ID
+9,Game site,PARK_ID
+10,Visitors starting pitcher,AWAY_START_PIT_ID
+11,Home starting pitcher,HOME_START_PIT_ID
+12,Home plate umpire,BASE4_UMP_ID
+13,First base umpire,BASE1_UMP_ID
+14,Second base umpire,BASE2_UMP_ID
+15,Third base umpire,BASE3_UMP_ID
+16,Left field umpire,LF_UMP_ID
+17,Right field umpire,RF_UMP_ID
+18,Attendance,ATTEND_PARK_CT
+19,PS scorer,SCORER_RECORD_ID
+20,Translator,TRANSLATOR_RECORD_ID
+21,Inputter,INPUTTER_RECORD_ID
+22,Input time,INPUT_RECORD_TS
+23,Edit time,EDIT_RECORD_TS
+24,How scored,METHOD_RECORD_CD
+25,Pitches entered,PITCHES_RECORD_CD
+26,Temperature,TEMP_PARK_CT
+27,Wind direction,WIND_DIRECTION_PARK_CD
+28,Wind speed,WIND_SPEED_PARK_CT
+29,Field condition,FIELD_PARK_CD
+30,Precipitation,PRECIP_PARK_CD
+31,Sky,SKY_PARK_CD
+32,Time of game,MINUTES_GAME_CT
+33,Number of innings,INN_CT
+34,Visitor final score,AWAY_SCORE_CT
+35,Home final score,HOME_SCORE_CT
+36,Visitor hits,AWAY_HITS_CT
+37,Home hits,HOME_HITS_CT
+38,Visitor errors,AWAY_ERR_CT
+39,Home errors,HOME_ERR_CT
+40,Visitor left on base,AWAY_LOB_CT
+41,Home left on base,HOME_LOB_CT
+42,Winning pitcher,WIN_PIT_ID
+43,Losing pitcher,LOSE_PIT_ID
+44,Save,SAVE_PIT_ID
+45,Game-winning RBI,GWRBI_BAT_ID
+46,Visitor batter 1,AWAY_LINEUP1_BAT_ID
+47,Visitor batter 1 position,AWAY_LINEUP1_FLD_CD
+48,Visitor batter 2,AWAY_LINEUP2_BAT_ID
+49,Visitor batter 2 position,AWAY_LINEUP2_FLD_CD
+50,Visitor batter 3,AWAY_LINEUP3_BAT_ID
+51,Visitor batter 3 position,AWAY_LINEUP3_FLD_CD
+52,Visitor batter 4,AWAY_LINEUP4_BAT_ID
+53,Visitor batter 4 position,AWAY_LINEUP4_FLD_CD
+54,Visitor batter 5,AWAY_LINEUP5_BAT_ID
+55,Visitor batter 5 position,AWAY_LINEUP5_FLD_CD
+56,Visitor batter 6,AWAY_LINEUP6_BAT_ID
+57,Visitor batter 6 position,AWAY_LINEUP6_FLD_CD
+58,Visitor batter 7,AWAY_LINEUP7_BAT_ID
+59,Visitor batter 7 position,AWAY_LINEUP7_FLD_CD
+60,Visitor batter 8,AWAY_LINEUP8_BAT_ID
+61,Visitor batter 8 position,AWAY_LINEUP8_FLD_CD
+62,Visitor batter 9,AWAY_LINEUP9_BAT_ID
+63,Visitor batter 9 position,AWAY_LINEUP9_FLD_CD
+64,Home batter 1,HOME_LINEUP1_BAT_ID
+65,Home batter 1 position,HOME_LINEUP1_FLD_CD
+66,Home batter 2,HOME_LINEUP2_BAT_ID
+67,Home batter 2 position,HOME_LINEUP2_FLD_CD
+68,Home batter 3,HOME_LINEUP3_BAT_ID
+69,Home batter 3 position,HOME_LINEUP3_FLD_CD
+70,Home batter 4,HOME_LINEUP4_BAT_ID
+71,Home batter 4 position,HOME_LINEUP4_FLD_CD
+72,Home batter 5,HOME_LINEUP5_BAT_ID
+73,Home batter 5 position,HOME_LINEUP5_FLD_CD
+74,Home batter 6,HOME_LINEUP6_BAT_ID
+75,Home batter 6 position,HOME_LINEUP6_FLD_CD
+76,Home batter 7,HOME_LINEUP7_BAT_ID
+77,Home batter 7 position,HOME_LINEUP7_FLD_CD
+78,Home batter 8,HOME_LINEUP8_BAT_ID
+79,Home batter 8 position,HOME_LINEUP8_FLD_CD
+80,Home batter 9,HOME_LINEUP9_BAT_ID
+81,Home batter 9 position,HOME_LINEUP9_FLD_CD
+82,Visitor finishing pitcher,AWAY_FINISH_PIT_ID
+83,Home finishing pitcher,HOME_FINISH_PIT_ID

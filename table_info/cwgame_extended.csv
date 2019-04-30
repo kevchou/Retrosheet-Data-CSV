@@ -1,0 +1,96 @@
+﻿Field number,Description,Header
+0,visiting team league,AWAY_TEAM_LEAGUE_ID
+1,home team league,HOME_TEAM_LEAGUE_ID
+2,visiting team game number,AWAY_TEAM_GAME_CT
+3,home team game number,HOME_TEAM_GAME_CT
+4,length of game in outs,OUTS_CT
+5,information on completion of game,COMPLETION_TX
+6,information on forfeit of game,FORFEIT_TX
+7,information on protest of game,PROTEST_TX
+8,visiting team linescore,AWAY_LINE_TX
+9,home team linescore,HOME_LINE_TX
+10,visiting team AB,AWAY_AB_CT
+11,visiting team 2B,AWAY_2B_CT
+12,visiting team 3B,AWAY_3B_CT
+13,visiting team HR,AWAY_HR_CT
+14,visiting team RBI,AWAY_BI_CT
+15,visiting team SH,AWAY_SH_CT
+16,visiting team SF,AWAY_SF_CT
+17,visiting team HP,AWAY_HP_CT
+18,visiting team BB,AWAY_BB_CT
+19,visiting team IBB,AWAY_IBB_CT
+20,visiting team SO,AWAY_SO_CT
+21,visiting team SB,AWAY_SB_CT
+22,visiting team CS,AWAY_CS_CT
+23,visiting team GDP,AWAY_GDP_CT
+24,visiting team reach on interference,AWAY_XI_CT
+25,number of pitchers used by visiting team,AWAY_PITCHER_CT
+26,visiting team individual ER allowed,AWAY_ER_CT
+27,visiting team team ER allowed,AWAY_TER_CT
+28,visiting team WP,AWAY_WP_CT
+29,visiting team BK,AWAY_BK_CT
+30,visiting team PO,AWAY_PO_CT
+31,visiting team A,AWAY_A_CT
+32,visiting team PB,AWAY_PB_CT
+33,visiting team DP,AWAY_DP_CT
+34,visiting team TP,AWAY_TP_CT
+35,home team AB,HOME_AB_CT
+36,home team 2B,HOME_2B_CT
+37,home team 3B,HOME_3B_CT
+38,home team HR,HOME_HR_CT
+39,home team RBI,HOME_RBI_CT
+40,home team SH,HOME_SH_CT
+41,home team SF,HOME_SF_CT
+42,home team HP,HOME_HP_CT
+43,home team BB,HOME_BB_CT
+44,home team IBB,HOME_IBB_CT
+45,home team SO,HOME_SO_CT
+46,home team SB,HOME_SB_CT
+47,home team CS,HOME_CS_CT
+48,home team GDP,HOME_GDP_CT
+49,home team reach on interference,HOME_XI_CT
+50,number of pitchers used by home team,HOME_PITCHER_CT
+51,home team individual ER allowed,HOME_ER_CT
+52,home team team ER allowed,HOME_TER_CT
+53,home team WP,HOME_WP_CT
+54,home team BK,HOME_BK_CT
+55,home team PO,HOME_PO_CT
+56,home team A,HOME_A_CT
+57,home team PB,HOME_PB_CT
+58,home team DP,HOME_DP_CT
+59,home team TP,HOME_TP_CT
+60,home plate umpire name,UMP_HOME_NAME_TX
+61,first base umpire name,UMP_1B_NAME_TX
+62,second base umpire name,UMP_2B_NAME_TX
+63,third base umpire name,UMP_3B_NAME_TX
+64,left field umpire name,UMP_LF_NAME_TX
+65,right field umpire name,UMP_RF_NAME_TX
+66,visitors manager ID,AWAY_MANAGER_ID
+67,visitors manager name,AWAY_MANAGER_NAME_TX
+68,home manager ID,HOME_MANAGER_ID
+69,home manager name,HOME_MANAGER_NAME_TX
+70,winning pitcher name,WIN_PIT_NAME_TX
+71,losing pitcher name,LOSE_PIT_NAME_TX
+72,save pitcher name,SAVE_PIT_NAME_TX
+73,batter with goahead RBI ID,GOAHEAD_RBI_ID
+74,batter with goahead RBI,GOAHEAD_RBI_NAME_TX
+75,visitor batter 1 name,AWAY_LINEUP1_BAT_NAME_TX
+76,visitor batter 2 name,AWAY_LINEUP2_BAT_NAME_TX
+77,visitor batter 3 name,AWAY_LINEUP3_BAT_NAME_TX
+78,visitor batter 4 name,AWAY_LINEUP4_BAT_NAME_TX
+79,visitor batter 5 name,AWAY_LINEUP5_BAT_NAME_TX
+80,visitor batter 6 name,AWAY_LINEUP6_BAT_NAME_TX
+81,visitor batter 7 name,AWAY_LINEUP7_BAT_NAME_TX
+82,visitor batter 8 name,AWAY_LINEUP8_BAT_NAME_TX
+83,visitor batter 9 name,AWAY_LINEUP9_BAT_NAME_TX
+84,home batter 1 name,HOME_LINEUP1_BAT_NAME_TX
+85,home batter 2 name,HOME_LINEUP2_BAT_NAME_TX
+86,home batter 3 name,HOME_LINEUP3_BAT_NAME_TX
+87,home batter 4 name,HOME_LINEUP4_BAT_NAME_TX
+88,home batter 5 name,HOME_LINEUP5_BAT_NAME_TX
+89,home batter 6 name,HOME_LINEUP6_BAT_NAME_TX
+90,home batter 7 name,HOME_LINEUP7_BAT_NAME_TX
+91,home batter 8 name,HOME_LINEUP8_BAT_NAME_TX
+92,home batter 9 name,HOME_LINEUP9_BAT_NAME_TX
+93,additional information,ADD_INFO_TX
+94,acquisition information,ACQ_INFO_TX

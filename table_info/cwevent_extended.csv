@@ -1,0 +1,64 @@
+﻿Field number,Description,Header
+0,home team id,HOME_TEAM_ID
+1,batting team id,BAT_TEAM_ID
+2,fielding team id,FLD_TEAM_ID
+3,half inning (differs from batting team if home team bats first),BAT_LAST_ID
+4,start of half inning flag,INN_NEW_FL
+5,end of half inning flag,INN_END_FL
+6,score for team on offense,START_BAT_SCORE_CT
+7,score for team on defense,START_FLD_SCORE_CT
+8,runs scored in this half inning,INN_RUNS_CT
+9,number of plate appearances in game for team on offense,GAME_PA_CT
+10,number of plate appearances in inning for team on offense,INN_PA_CT
+11,start of plate appearance flag,PA_NEW_FL
+12,truncated plate appearance flag,PA_TRUNC_FL
+13,base state at start of play,START_BASES_CD
+14,base state at end of play,END_BASES_CD
+15,batter is starter flag,BAT_START_FL
+16,result batter is starter flag,RESP_BAT_START_FL
+17,ID of the batter on deck,BAT_ON_DECK_ID
+18,ID of the batter in the hold,BAT_IN_HOLD_ID
+19,pitcher is starter flag,PIT_START_FL
+20,result pitcher is starter flag,RESP_PIT_START_FL
+21,defensive position of runner on first,RUN1_FLD_CD
+22,lineup position of runner on first,RUN1_LINEUP_CD
+23,event number on which runner on first reached base,RUN1_ORIGIN_EVENT_ID
+24,defensive position of runner on second,RUN2_FLD_CD
+25,lineup position of runner on second,RUN2_LINEUP_CD
+26,event number on which runner on second reached base,RUN2_ORIGIN_EVENT_ID
+27,defensive position of runner on third,RUN3_FLD_CD
+28,lineup position of runner on third,RUN3_LINEUP_CD
+29,event number on which runner on third reached base,RUN3_ORIGIN_EVENT_ID
+30,responsible catcher for runner on first,RUN1_RESP_CAT_ID
+31,responsible catcher for runner on second,RUN2_RESP_CAT_ID
+32,responsible catcher for runner on third,RUN3_RESP_CAT_ID
+33,number of balls in plate appearance,PA_BALL_CT
+34,number of called balls in plate appearance,PA_CALLED_BALL_CT
+35,number of intentional balls in plate appearance,PA_INTENT_BALL_CT
+36,number of pitchouts in plate appearance,PA_PITCHOUT_BALL_CT
+37,number of pitches hitting batter in plate appearance,PA_HITBATTER_BALL_CT
+38,number of other balls in plate appearance,PA_OTHER_BALL_CT
+39,number of strikes in plate appearance,PA_STRIKE_CT
+40,number of called strikes in plate appearance,PA_CALLED_STRIKE_CT
+41,number of swinging strikes in plate appearance,PA_SWINGMISS_STRIKE_CT
+42,number of foul balls in plate appearance,PA_FOUL_STRIKE_CT
+43,number of balls in play in plate appearance,PA_INPLAY_STRIKE_CT
+44,number of other strikes in plate appearance,PA_OTHER_STRIKE_CT
+45,number of runs on play,EVENT_RUNS_CT
+46,id of player fielding batted ball,FLD_ID
+47,force play at second flag,BASE2_FORCE_FL
+48,force play at third flag,BASE3_FORCE_FL
+49,force play at home flag,BASE4_FORCE_FL
+50,batter safe on error flag,BAT_SAFE_ERR_FL
+51,fate of batter (base ultimately advanced to),BAT_FATE_ID
+52,fate of runner on first,RUN1_FATE_ID
+53,fate of runner on second,RUN2_FATE_ID
+54,fate of runner on third,RUN3_FATE_ID
+55,runs scored in half inning after this event,FATE_RUNS_CT
+56,fielder with sixth assist,ASS6_FLD_CD
+57,fielder with seventh assist,ASS7_FLD_CD
+58,fielder with eighth assist,ASS8_FLD_CD
+59,fielder with ninth assist,ASS9_FLD_CD
+60,fielder with tenth assist,ASS10_FLD_CD
+61,unknown fielding credit flag,UNKNOWN_OUT_EXC_FL
+62,uncertain play flag,UNCERTAIN_PLAY_EXC_FL
