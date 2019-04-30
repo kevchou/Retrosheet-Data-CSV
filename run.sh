@@ -2,7 +2,7 @@
 
 # Input time frame here
 startYear=2000
-endYear=2001
+endYear=2020
 
 # Make needed folders
 mkdir -p ./downloaded
@@ -30,7 +30,7 @@ function parse_data() {
         echo $PWD
         
         cwevent -f 0-96 -x 0-62 -y "$year" "$year"*.EV* > ../parsed/all"$year".csv
-        cwgame -f 0-83 -y "$year" "$year"*.EV* > ../parsed/games"$year".csv
+        cwgame -f 0-83 -x 0-94 -y "$year" "$year"*.EV* > ../parsed/games"$year".csv
         cwsub -f 0-9 -y "$year" "$year"*.EV* > ../parsed/sub"$year".csv
     done
 
